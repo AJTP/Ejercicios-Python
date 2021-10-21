@@ -1,0 +1,8 @@
+verbo = (input("Introduce el verbo: "))
+verbo=verbo.rstrip("ar")
+print("Yo ", verbo+"o")
+print("Tu ", verbo+"as")
+print("Él ", verbo+"a")
+print("Nosotros ", verbo+"amos")
+print("Vosotros ", verbo+"ais")
+print("Ellos ", verbo+"an")
