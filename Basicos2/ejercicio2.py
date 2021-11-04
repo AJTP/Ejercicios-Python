@@ -1,3 +1,5 @@
+# Escribir un algoritmo que imprima el mínimo, el máximo y la media de tres números.
+
 n1 = int(input("Introduce el primer número: "))
 n2 = int(input("Introduce el segundo número: "))
 n3 = int(input("Introduce el tercer número: "))

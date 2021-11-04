@@ -1,3 +1,5 @@
+# Escribir una función que determine si una letra dada es consonante.
+
 def consonante(letra):
     consonantes = {'a','e','i','o','u'}
     if letra not in consonantes:

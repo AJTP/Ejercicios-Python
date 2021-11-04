@@ -1,3 +1,8 @@
+# Escribir un algoritmo que, para una suma de dinero dada, indique
+# cómo descomponerla en billetes y monedas corrientes. Se desea utilizar el mínimo de
+# billetes y monedas. No hay ninguna limitación respecto al número de billetes y
+# monedas disponibles.
+
 cantidades = [500, 200, 100, 50, 20, 10, 5, 2, 1]
 dinero = int(input("Introduce la cantidad de dinero: "))
 

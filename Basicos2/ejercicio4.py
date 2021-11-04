@@ -1,3 +1,5 @@
+# Escribir un algoritmo que, para un número decimal de 4 cifras, imprima su valor en
+# base 2 (binario).
 d = int(input("Introduce un número: "))
 cadena = ""
 while d > 1:

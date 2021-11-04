@@ -1,3 +1,7 @@
+# Escribir un programa en Python que almacene las asignaturas de un curso (por
+# ejemplo, Matemáticas, Física, Química, Historia y Lengua) en una lista y la muestre
+# por pantalla.
+
 Lista = []
 m = int(input("Introduce la nota de Matemáticas: "))
 Lista.append(m)

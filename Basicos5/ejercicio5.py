@@ -1,3 +1,6 @@
+# Escribir una función llamada superposición() que reciba dos listas y devuelva True si
+# tienen al menos un miembro en común y False si lo contrario.
+
 def superposicion(l1, l2):
     for i in l1:
         if i in l2:

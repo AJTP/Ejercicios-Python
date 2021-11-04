@@ -1,3 +1,5 @@
+# Escribir un programa que pida una frase e indique si es un palíndromo.
+
 def palindromo(palabra):
     aux = palabra[::-1]
     if palabra==aux:

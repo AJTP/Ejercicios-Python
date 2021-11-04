@@ -1,3 +1,6 @@
+# Escribir un algoritmo que, para cualquier número de segundos inferior a un millón,
+# calcule su equivalente en días, horas, minutos y segundos.
+
 s = int(input("Introduce el número de segundos: "))
 if s<1000000:
     d=int(s/86400)

@@ -1,3 +1,7 @@
+# Consideremos una hora expresada en forma de tripleta. Escribir un algoritmo que
+# imprima la hora correspondiente al siguiente segundo. Por ejemplo, para la entrada
+# 13,43,24 tiene que devolver 13,43,25.
+
 hora = input("Introduce la hora: ")
 cadenas = hora.split(',')
 datos = []

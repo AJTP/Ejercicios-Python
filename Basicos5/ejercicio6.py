@@ -1,3 +1,6 @@
+# Escribir una función que pida una cadena de caracteres y que devuelva cuántos de
+# ellos son mayúsculas.
+
 def mayusculas(cadena):
     contador = 0
     for i in range(len(cadena)):
